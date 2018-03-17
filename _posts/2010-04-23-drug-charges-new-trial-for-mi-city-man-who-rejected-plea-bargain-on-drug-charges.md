@@ -1,0 +1,20 @@
+---
+ID: 514
+post_title: 'Drug Charges &#8211; New Trial for MI City Man Who Rejected Plea Bargain on Drug Charges'
+author: Charles Kronzek
+post_excerpt: "A Michigan City man is going to trial again after rejecting a prosecutor's plea bargain offered in a drug distribution case. Although he was convicted in 2009 of fleeing police and criminal recklessness, jurors were unable to determine if he was also guilty of possessing drugs with the intent to sell. The defendant will try again to have his name cleared in a new trial set for October 18th, 2010. "
+layout: post
+permalink: >
+  http://acddev.staging.wpengine.com/drug-charges-new-trial-for-mi-city-man-who-rejected-plea-bargain-on-drug-charges.html
+published: true
+post_date: 2010-04-23 14:50:04
+---
+Just helping out a friend can put a person in the wrong place at the wrong time, subjecting them to questioning or potential arrest by law enforcement officials. In such a situation, experienced Michigan criminal defense lawyers would recommend that you stay put, and cooperate with police--if you run, cops are likely to believe that you have something to hide. Such is the situation surrounding a Michigan City man, arrested on felony drug charges in 2006, even though police never searched him for illicit narcotics.
+<h2>Suspect Runs and Evades But Did He Commit the Crime?</h2>
+Law enforcement officials arrested Joseph Peters, 36, in August 2006  from a local hotel in a drug sting operation. Although police maintain that he was there to sell crack cocaine, Peters and his attorneys insist that he was simply there to jump a friend's vehicle. However, even if he was not selling drugs, he certainly made himself look very suspicious--when law enforcement officials approached his vehicle, Peters quickly sped away. Police chased him half of a mile before Peters ditched his car and ran into the woods to evade arrest.
+
+In March of 2009, a jury found Peters guilty of fleeing from law enforcement with a vehicle and criminal recklessness, a felony and misdemeanor charge respectively. Although he was also held on suspected <a href="http://acddev.staging.wpengine.com/drug-charges.html" target="_blank">felony drug charges</a>, the jury was unable to determine whether he was delivering cocaine or not. When police approached him back in 2006, Peters' vehicle was never searched and no drugs were found, the charges are merely speculation. His criminal defense lawyer holds that Peters' should be acquitted of all charges, as years have passed since the original incident. "They've got no evidence now in a case that's four years old," she explained.
+
+Peters rejected a plea bargain offered from prosecutors in favor of a new trial, which will begin on October 18th. During Monday's hearing, the prosecuting attorney stated that he intends to bring other witnesses to the stand in the new trial to prove that he was distributing illicit narcotics. If the jury agrees with the prosecution, he faces a maximum of 50 years behind bars, besides the three years in jail he received for the other convicted charges against him.
+
+Facing a criminal charges of any magnitude is an incredibly strenuous experience for anyone to go through, whether the person is actually guilty or not. If confronted by law enforcement officials, it is essential to cooperate with them, as not to bring any unnecessary attention towards you, especially for crimes you are innocent of. If arrested, you will need the best possible legal defense to clear your name and reputation. Retaining experienced <a href="http://acddev.staging.wpengine.com/" target="_blank">Michigan criminal attorneys</a> will help ensure that the charges against you will not transform into life-changing consequences, including  jail time. Acting quickly will preserve the personal liberties and freedoms that you enjoy most, keeping you at home with family and not behind bars.

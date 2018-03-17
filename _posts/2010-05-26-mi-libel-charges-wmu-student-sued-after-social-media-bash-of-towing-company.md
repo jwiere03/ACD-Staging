@@ -1,0 +1,18 @@
+---
+ID: 638
+post_title: 'MI Libel Charges &#8211; WMU Student Sued After Social Media Bash of Towing Company'
+author: Charles Kronzek
+post_excerpt: 'Web-surfers and online product reviewers: be warned, posting your opinions online can be dangerous and costly. Such is the example of Western Michigan University student Justin Kurtz who was recently sued for slander and libel after expressing an unfavorable review of a local towing company in an online social forum. '
+layout: post
+permalink: >
+  http://acddev.staging.wpengine.com/mi-libel-charges-wmu-student-sued-after-social-media-bash-of-towing-company.html
+published: true
+post_date: 2010-05-26 02:57:19
+---
+Each day the Internet becomes an increasingly powerful tool, not only for research but for spreading messages, including reviews on products and companies. However, experienced Michigan criminal defense attorneys warn all web surfers to be careful regarding what they post online. In today's high-tech world, one can easily take for granted speech published on the Internet. However, as seen in a recent case against a Western Michigan University student, it is possible to be sued for criminal charges after posting unfavorable information online, particularly if it negatively impacts a business.
+
+WMU student Justin Kurtz, 21, was asleep when his car was towed by the T&amp;J Towing Company. When the experienced car enthusiast went to retrieve his vehicle the next day, he noticed that things were not as how he left it. According to WalletPop.com, not only was his car alarm reset, but his parking pass had been ripped off--Kurtz instantly knew that his car was broken into, and that the pass was removed so the vehicle could be towed legally.
+
+Although Kurtz filed a police report, he was unable to motivate any formidable action against the T&amp;J Towing Company. Frustrated with his lack of results, he started an online network on Facebook entitled "Kalamazoo Residents Against T&amp;J Towing Company." Instantly the group gained popularity and public notice. In February 2010, Joseph Bird, the owner of T&amp;J Towing Company, threatened a lawsuit against Kurtz if he did not take the Facebook group offline--apparently, the business was losing customers as a result of the negative Internet exposure.  Even though Kurtz maintains that he took his complaints online simply to see if anyone else felt similarly, the trash-talked towing company sued the WMU junior on Michigan libel charges, amounting to $750,000.
+<h2>Be Aware of the Risks Before Taking Your Complaint To Social Media</h2>
+While even experienced <a href="http://acddev.staging.wpengine.com/" target="_blank">Michigan criminal defense attorneys</a> admit that a number of online slander cases "lack merit," examples such as these serve as reminders of inappropriate online posting. Those using social media sites (Facebook, YouTube, Twitter, etc) need to be informed of the risks before taking their thoughts and opinions online, particularly because the cost of doing so can be expensive. Because of the serious nature involved with slander and libel charges, it is essential to be proactive regarding your defense. Getting in contact with a hard-working and aggressive Michigan libel defense attorneys will not only provide the best leg al advice and legal representation, but also ensure that your First Amendment right to free speech is fully protected, regardless of the forum.

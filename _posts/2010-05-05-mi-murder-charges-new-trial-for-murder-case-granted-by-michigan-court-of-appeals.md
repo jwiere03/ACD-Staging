@@ -1,0 +1,22 @@
+---
+ID: 531
+post_title: 'MI Murder Charges &#8211; New Trial for Murder Case Granted by Michigan Court of Appeals'
+author: Charles Kronzek
+post_excerpt: "The Michigan Court of Appeals has granted a convicted murderer another shot at gaining his freedom. Michael George, 49, was found guilty of homicide based on the presentation of circumstantial evidence. However, new information discovered by George's defense counsel shows not only that he may not be at fault, but that prosecution exhibited misconduct during the trial. "
+layout: post
+permalink: >
+  http://acddev.staging.wpengine.com/mi-murder-charges-new-trial-for-murder-case-granted-by-michigan-court-of-appeals.html
+published: true
+post_date: 2010-05-05 21:05:18
+---
+Being falsely accused of a crime is not only heartbreaking, but can also change your life permanently. If convicted, it is almost certain that the innocent person will wrongfully spend time in jail as a result. In such a case, any experienced Michigan criminal defense lawyer would recommend appealing the conviction, and if possible, discover new evidence that could potentially change the verdict. Such are the circumstances of a recent case where a Michigan man has been granted a retrial by the Court of Appeals, as it was revealed that several key pieces of evidence were missing from the original trial, occurring over 20 years ago.
+
+Michael George, now 49, was convicted in March 2008 for first-degree <a href="http://acddev.staging.wpengine.com/homicide.html" target="_blank">Michigan murder charges</a>, fraud, and other infractions in the killing of his former wife, Barbara George. Her death occurred in 1990, in the back of a comic book store that the George's owned together. Quickly after Barbara's death, George married his mistress and moved out of the state--for 17 years, he was not considered a suspect in this case. However, Clinton Township detectives reopened the case in 2007, and arrested him shortly afterward.
+
+The prosecution alleged in the 2008 trial that George was engaged in a long-time affair, and wanted out of his marriage--ultimately accusing him of killing her, so that the could remarry and take the insurance money. However, after the conclusion of the trial, George's Michigan criminal defense attorney was presented with new information that could possibly overturn the verdict. Fortunately, a retrial was granted by Judge James Biernant, based on the updated evidence and possible misconduct by the prosecuting attorney.
+<h2>New Evidence Could Change Outcome of Murder Case</h2>
+It was discovered that seven police tip sheets with information relevant to the 1990 murder of Barbara George, that were mysteriously misplaced by officers and never presented to the defense counsel. Each of the reports revealed information that highlighted the holes in the original investigation. One anonymous caller told the tip hotline that he bought a box of vintage comic books in the week following the murder, and that it could have been stolen from the store during the robbery.  Other calls attested to the sequence of events, such as the unidentified person who called the store at approximately 6:00 p.m., but was abruptly hung up on by the male voice on the other end. Although the tipster took the store employee as unprofessional, it does give more credibility to George's story. None of the tips suggesting other suspects or updated information were followed up upon by investigators in 1990.
+
+Because the prosecution relied so heavily on circumstantial evidence, the Court of Appeals decided that this newly presented information could significantly change the outcome of the trial. Until he stands in court for retrial, George waits in a barred Macomb County Jail cell on $2.5 million bond.
+
+Although Michael George is still required to attend court regarding the death of his former wife, his case still highlights how innocent people can be accused of crimes they did not commit. The consequences of a murder conviction are life-changing and will result in significant jail sentence. Because the punishment is so severe, it is essential that a suspected person does not take chances with their personal freedoms and liberties--calling aggressive <a href="http://acddev.staging.wpengine.com/trial-attorneys.html" target="_blank">Michigan homicide defense lawyers </a>immediately will ensure not only the best legal advice and representation, but help keep you at home and work, not behind bars.

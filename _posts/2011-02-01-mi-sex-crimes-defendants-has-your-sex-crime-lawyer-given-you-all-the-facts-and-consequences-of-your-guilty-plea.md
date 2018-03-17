@@ -1,0 +1,20 @@
+---
+ID: 1375
+post_title: 'MI Sex Crimes &#8211; Defendants: Has Your Sex Crime Lawyer Given You All The Facts (and Consequences) of Your Guilty Plea?'
+author: Charles Kronzek
+post_excerpt: 'Every sex crime lawyer knows all too well: regardless of where it occurs, guilty pleas or convictions for sex crimes will have a significant impact on the defendant’s life. In Michigan, the Sex Offender Registration Act requires these individuals to submit personal information to a large public database called the Michigan Public Sex Offender Registry. In short, this is an extensive list of Michigan residents who have pled guilty to—or have been convicted of—certain crimes that are sexual in nature.'
+layout: post
+permalink: >
+  http://acddev.staging.wpengine.com/mi-sex-crimes-defendants-has-your-sex-crime-lawyer-given-you-all-the-facts-and-consequences-of-your-guilty-plea.html
+published: true
+post_date: 2011-02-01 15:35:31
+---
+Every sex crime lawyer knows all too well: regardless of where it occurs, guilty pleas or convictions for sex crimes will have a significant impact on the defendant’s life. In Michigan, the Sex Offender Registration Act requires these individuals to submit personal information to a large public database called the Michigan Public Sex Offender Registry. In short, this is an extensive list of Michigan residents who have pled guilty to—or have been convicted of—certain crimes that are sexual in nature.
+
+As one could imagine, being on this list is not only embarrassing, but can be a serious hindrance to getting a job, doing certain volunteer work, attending events at schools, and much more. Available for public viewing online, the <a href="http://acddev.staging.wpengine.com/sex-offender-registry.html" target="_blank">Sex Offender Registry</a> shows a photo of the accused sex offender, along with his or her name, date of birth, and their convicted crime.
+<h2>Recent Case Example</h2>
+In a case recently decided by the Michigan Court of Appeals, Derek Fonville pled guilty to the crime of Child Enticement, a sex crime that requires registration on the Sex Offender registry. When he discovered this information, Fonville was surprised and upset, as his sex crime attorney never told him that a guilty plea for Child Enticement meant inclusion on the Michigan Sex Offender Registry.  Fonville argued that if he had known that, he would never have pled guilty in the first place and would have preferred a criminal trial—particularly as his specific case, all parties agree that there was nothing sexual about the acts he committed. Nonetheless, Michigan’s Sex Offender Registration Act (SORA), lists that crime as one that requires registration regardless of whether there is anything sexual connected with the actual offense.
+
+The Michigan Court of Appeals held that Fonville’s criminal defense attorney needed to have told Fonville that by pleading guilty to this particular crime, Fonville would be required to register as a sex offender. Because the attorney never told Fonville this information, he won his claim of Ineffective Assistance of Counsel against the attorney and the case was sent back to the trial court, ultimately reversing Fonville’s conviction.
+
+So, what does this ruling mean for individuals required to register as a sex offender? If you have been charged with a Michigan sex crimefor which a guilty plea requires registration on the Sex Offender Registry, your attorney must warn you of this consequence before you plead guilty. If your <a href="http://acddev.staging.wpengine.com/trial-attorneys.html" target="_blank">sex crime lawyers</a> did not do this, you can appeal your plea, arguing that this information would have influenced your plea. For this reason specifically, it is important to have a skilled and knowledgeable defense attorneys on your side—not only will it guarantee the best legal advice and representation, but a fight to protect your personal liberties and reputation.

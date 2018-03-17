@@ -1,0 +1,20 @@
+---
+ID: 181
+post_title: Michigan Immunity from Prosecution
+author: Charles Kronzek
+post_excerpt: ""
+layout: page
+permalink: >
+  http://acddev.staging.wpengine.com/immunity.html
+published: true
+post_date: 2014-01-31 06:33:44
+---
+<h2>Transactional Immunity and Derivative Use Immunity Attorneys</h2> <p>Under federal and Michigan law, there is a concept called "immunity" from being prosecuted. The Fifth Amendment to the United States Constitution says that a person has protection from self-incrimination. Therefore, witnesses cannot be required to testify to something that would get them in trouble with the law. It is common to hear about a suspect that will "plead the Fifth" which translates to invoking a person’s right to protection under the 5th Amendment. In addition to that Fifth Amendment right under the Federal Constitution, the Michigan Constitution has similar protections. Imagine a scenario where a witness is called to testify about the defendant’s crime. But what if the witness and the accused defendant committed the crime together? In truthfully testifying about what happened during the commission of the crime, the witness may have to mention their own involvement, which would incriminate themselves and leave him or her open to criminal prosecution. Commonly, witnesses, co-defendants, conspirators or accessories to a crime who might incriminate themselves if they testify in court about a crime wisely choose to use their Fifth Amendment protection, which is known as "Pleading the Fifth" or "Taking the Fifth." </p>
+	<p>However, there are some instances when a prosecutor feels they cannot win the case without a certain key witness’ testimony. If that witness would otherwise "plead the fifth" because his or her testimony would be self-incriminating, the prosecutor may ask the judge to grant the witness what is called "immunity".</p>
+	<h3>Transactional Immunity</h3>
+	<p>Immunity is an offer from the prosecutor to the witness that would require them to testify about the self-incriminating information in exchange for the promise never to prosecute the witness for information that comes out during his or her testimony. In Michigan court and in the Federal court system, there are two types of immunity. The first type of immunity is called "transaction immunity," "blanket immunity," or "total immunity." This first type of immunity gives the witness the most protection from prosecution because that witness can never be prosecuted in the future for any crimes related to his or her testimony. However, experienced criminal defense attorneys understand that a grant of immunity from a Michigan court will not, by itself, prevent the Federal government from prosecuting the witness for the same crime.</p>
+	<h3>Use and Derivative Use Immunity</h3>
+	<p>The second type of immunity is called "use and derivative use immunity." This second type of immunity does not protect the witness quite as much, because here the witness is only protected from future prosecution based on exactly what he or she says on the witness stand, and not from any evidence the prosecutor finds to substantiate the witness’ crime. Michigan law only allows for the granting of "use and derivative use immunity" in our state court system. </p>
+	<h3>Michigan Attorneys with Expertise in Immunity Issues</h3>
+	<p>A witness who has been granted immunity has the right to an attorney at all times at his or her request. As Michigan’s premier criminal defense law firm, the attorneys at The Kronzek Firm fully understand the legal concept of immunity. We can work with the witness to ensure he or she gets the most protection allowable under the law. We have experience in both the federal courts and the Michigan courts. If you are a witness who has been offered or granted immunity, we can help you navigate the court system. We will assist in protecting you against many of the pitfalls common in Michigan immunity orders. </p>
+	<b>Call us about your immunity issue! We can be reached at (866) 7-NoJail. That’s (866) 766-5245</b>!<p></p>
